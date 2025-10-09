@@ -1,4 +1,13 @@
-# Prototipo-Tecnolog-a-Electro-JP
+# Prototipo - Tecnolog-a-Electro-JP
+
 Proyecto de prueba Practica ElectroSoluciones
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/otYjiZrfML1RJrTBAHEYR0/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+---
+
+## Ver Prototipo Interactivo Completo
+
+**¡Haz clic en la imagen o en el enlace para abrir el prototipo en Figma!**
+
+[![Vista Previa del Prototipo Tecnolog-a-Electro][preview-image]] (https://www.figma.com/file/oTyj.../TU ENLACE DE FIGMA COMPLETO AQUÍ)
+
+[preview-image]: (https://i.imgur.com/TuCapturaDePantalla.png)
