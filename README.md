@@ -8,5 +8,5 @@ Proyecto de prueba Practica ElectroSoluciones
 
 **¡Haz clic en el enlace para abrir el prototipo en Figma!**
 
-[![Vista Previa del Prototipo Tecnolog-a-Electro]] (https://www.figma.com/design/otYjiZrfML1RJrTBAHEYR0/Untitled?node-id=0-1&t=q4jSRC014N1HXwx3-1)
+[![Vista Previa del Prototipo Tecnolog-a-Electro]] (https://www.figma.com/design/otYjiZrfML1RJrTBAHEYR0/Untitled?node-id=63-325&t=q4jSRC014N1HXwx3-1)
 
