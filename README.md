@@ -8,26 +8,9 @@ Este repositorio contiene la documentación y el enlace al prototipo de alta fid
 
 Para una visualización en pantalla completa y una experiencia de navegación óptima, haz clic en el botón a continuación. También puedes ver una vista previa incrustada.
 
-### Opción 1: Visualización en Pantalla Completa (Recomendado)
+### Visualización en Pantalla Completa (Recomendado)
 
 [▶️ Abrir Prototipo en Figma (Link Directo)](https://www.figma.com/design/otYjiZrfML1RJrTBAHEYR0/Untitled?node-id=0-1&t=vfnYzF3OvuLCUhD2-1)
-
----
-
-### Opción 2: Vista Previa Incrustada
-
-<details>
-<summary>Haga clic aquí para expandir la vista previa del prototipo</summary>
-
-<div align="center">
-    <iframe style="border: 1px solid rgba(255, 255, 255, 0.1);" 
-            width="100%" 
-            height="450" 
-            src="https://www.figma.com/design/otYjiZrfML1RJrTBAHEYR0/Untitled?node-id=0-1&t=vfnYzF3OvuLCUhD2-1?embed_type=embed_link" 
-            allowfullscreen>
-    </iframe>
-</div>
-</details>
 
 ---
 
